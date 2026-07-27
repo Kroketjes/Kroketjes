@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="700" src="https://pbs.twimg.com/media/FvsUkY1aAAYRJxF?format=jpg&name=large">
+<img align="right" height="600" src="https://pbs.twimg.com/media/FvsUkY1aAAYRJxF?format=jpg&name=large">
 
 - 💝 I’m currently working on [Babetrader Toolkit](https://github.com/Kroketjes/BabeTrader-Toolkit)
 - :octocat: Fun fact: I like Poezekes
