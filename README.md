@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" height="800" src="https://pbs.twimg.com/media/FvsUkY1aAAYRJxF?format=jpg&name=large">
+
+- 💝 I’m currently working on [Babetrader Toolkit](https://github.com/Kroketjes/BabeTrader-Toolkit)
+- :octocat: Fun fact: I like Poezekes
+- :floppy_disk: Skills: I can do everything you know
+- :drop_of_blood: Favorite game: Bloodborne
