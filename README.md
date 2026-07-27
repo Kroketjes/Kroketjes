@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img align="right" height="650" src="https://pbs.twimg.com/media/FvsUkY1aAAYRJxF?format=jpg&name=large">
+-->
+<picture>
+  <!-- Source for dark mode -->
+  <source align="right" height="650" media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/media/FwHINefWwAYX0NZ?format=jpg&name=large">
+  <!-- Fallback image for light mode and other clients -->
+  <img align="right" height="650" alt="My Alt Text" src="https://pbs.twimg.com/media/FvsUkY1aAAYRJxF?format=jpg&name=large">
+</picture>
+
 
 - 💝 I’m currently working on [Babetrader Toolkit](https://github.com/Kroketjes/BabeTrader-Toolkit)
 - :octocat: Fun fact: I like Poezekes
